@@ -31,9 +31,10 @@
 <br />
 
 ---
-<img align="left" alt="GrinMorg GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grinmorg&show_icons=true&theme=tokyonight" /> <br />
-<img align="left" alt="GrinMorg GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grinmorg" /> <br />
+<img alt="GrinMorg GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grinmorg&show_icons=true&theme=tokyonight" />
+<img alt="GrinMorg GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grinmorg" />
 ---
+<br />
 <br />
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
