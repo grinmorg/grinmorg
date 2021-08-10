@@ -31,7 +31,7 @@
 <br />
 
 ---
-<img align="left" alt="GrinMorg GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grinmorg&show_icons=true&theme=gruvbox" /> <br />
+<img align="left" alt="GrinMorg GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grinmorg&show_icons=true&theme=tokyonight" /> <br />
 ---
 
 <details>
