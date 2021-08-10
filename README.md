@@ -1,6 +1,6 @@
 ### Hi there, I'm Grigory 👋
 
-## I'm a Web Developer!!
+## And I a Web Developer!!
 
 - 🌱 Learn something new every day
 - ✔️ Make quality websites
@@ -30,6 +30,8 @@
 <br />
 <br />
 
+---
+<img align="left" alt="GrinMorg GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grinmorg" />
 ---
 
 <details>
