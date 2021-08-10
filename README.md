@@ -30,11 +30,8 @@
 <br />
 <br />
 
----
 <img align="left" alt="GrinMorg GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grinmorg&show_icons=true&theme=tokyonight" />
 <img align="right" alt="GrinMorg GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grinmorg&theme=tokyonight&layout=compact" />
----
-<br />
 
 [linkedin]: https://www.linkedin.com/in/grigory-morgachev-706610219/
 [telegram]: https://t.me/gr1nmorg
