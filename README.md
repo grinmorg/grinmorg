@@ -1,6 +1,6 @@
 ### Hi there, I'm Grigory 👋
 
-## And I a Web Developer!!
+## and I'm a web developer!
 
 - 🌱 Learn something new every day
 - ✔️ Make quality websites
