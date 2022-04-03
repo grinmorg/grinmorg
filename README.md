@@ -1,4 +1,4 @@
-### Hi there, I'm Grigory 👋
+# Hi there, I'm Grigory 👋
 
 ## and I'm a web developer!
 
