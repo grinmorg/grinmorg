@@ -2,8 +2,8 @@
 
 ## and I'm a creative developer!
 
-- 🌱 Learn something new every day
-- ✔️ Make quality websites
+- 💫 Make quality websites with incredible animations
+- 🧊 Create models in Blender
 - 📞 Contact me for cooperation
 
 ### Connect with me:
