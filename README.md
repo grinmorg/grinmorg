@@ -1,6 +1,6 @@
 # Hi there, I'm Grigory 👋
 
-## and I'm a web developer!
+## and I'm a creative developer!
 
 - 🌱 Learn something new every day
 - ✔️ Make quality websites
