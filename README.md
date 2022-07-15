@@ -3,7 +3,6 @@
 ## and I'm a creative developer!
 
 - 💫 Make quality websites with incredible animations
-- 🧊 Create models in Blender
 - 📞 Contact me for cooperation
 
 ### Connect with me:
