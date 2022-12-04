@@ -1,6 +1,4 @@
-# Hi there, I'm Grigory 👋
-
-## and I'm a creative developer!
+# Hi there👋
 
 ### Connect with me:
 
